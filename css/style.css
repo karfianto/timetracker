@@ -244,6 +244,8 @@ td.ε_row {
 }
 .page-title {
 	font-size: 32px;
+  line-height: 40px;
+  margin-bottom: 10px;
 }
 #timetracker-tags {
     width: 100%;
